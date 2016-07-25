@@ -6,5 +6,5 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: somerails
+      appname: theotherapp
 
